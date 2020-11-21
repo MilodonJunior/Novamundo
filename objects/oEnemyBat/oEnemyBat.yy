@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite8",
-    "path": "sprites/Sprite8/Sprite8.yy",
+    "name": "Flyer",
+    "path": "sprites/Flyer/Flyer.yy",
   },
   "solid": false,
   "visible": true,

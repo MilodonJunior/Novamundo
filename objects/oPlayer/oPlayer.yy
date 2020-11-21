@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite5",
-    "path": "sprites/Sprite5/Sprite5.yy",
+    "name": "PLayer",
+    "path": "sprites/PLayer/PLayer.yy",
   },
   "solid": false,
   "visible": true,
