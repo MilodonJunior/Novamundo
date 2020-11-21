@@ -16,7 +16,7 @@
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"oEnemyCharger","path":"objects/oEnemyCharger/oEnemyCharger.yy",},"order":6,},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":3,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"playtest","path":"rooms/playtest/playtest.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
@@ -38,7 +38,7 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+    {"name":"playtest","path":"rooms/playtest/playtest.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
