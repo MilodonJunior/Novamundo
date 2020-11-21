@@ -90,7 +90,7 @@ if(k_a /*and !instance_place(x-15, y, opiso)*/)
 
 #region//salto del personaje hacia la pared(video profe pablo)
 
-/*if(gravity > 0 and k_a and instance_place(x - 1,y,opiso) != noone)
+if(gravity > 0 and k_a and instance_place(x - 1,y,opiso) != noone)
 {
   gravity=0.5;
   if(k_w)
@@ -98,7 +98,7 @@ if(k_a /*and !instance_place(x-15, y, opiso)*/)
 	velocidad_x = -10;
 	velocidad_y = -15;
   }
-}*/
+}
 #endregion
 
  
